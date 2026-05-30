@@ -1,1 +1,1 @@
-# stonecode-app
+# sample-app
